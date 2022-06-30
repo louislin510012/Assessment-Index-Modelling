@@ -1,3 +1,2 @@
 import pandas
-please ingnore "A value is trying to be set on a copy of a slice from a DataFrame.
-Try using .loc[row_indexer,col_indexer] = value instead" warning meddage after you run the file
+please ingnore "A value is trying to be set on a copy of a slice from a DataFrame.Try using .loc[row_indexer,col_indexer] = value instead" warning meddage after you run the file
